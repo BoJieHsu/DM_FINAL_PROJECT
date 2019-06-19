@@ -46,6 +46,27 @@ FOXC1	DB00795	1	-0.385396415	sulfasalazine	1.4383
 FOXC1	DB00738	1	-0.358589819	pentamidine	2.2925
 FOXC1	DB00661	1	-0.354689843	verapamil	3.4137
 --------------------------------------------------------------------------------
+Target	Drug_ID	Score	GLI2	CMAP_Drug	Toxic(LD50,mol/kg)
+GLI2	DB00860	1	-0.987020447	prednisolone	1.8914
+GLI2	DB00687	1	-0.964370054	fludrocortisone	2.1686
+GLI2	DB01054	1	-0.950009932	nitrendipine	2.381
+GLI2	DB01229	1	-0.941092697	paclitaxel	2.4391
+GLI2	DB05297	1	-0.941092697	paclitaxel	2.4323
+GLI2	DB00091	1	-0.940332233	ciclosporin	2.8788
+GLI2	DB01115	1	-0.939497602	nifedipine	2.5425
+GLI2	DB01234	1	-0.920417288	dexamethasone	2.1482
+GLI2	DB00914	1	-0.915356132	phenformin	2.5305
+GLI2	DB00321	1	-0.897748314	amitriptyline	2.9697
+GLI2	DB00481	1	-0.870084807	raloxifene	2.5287
+GLI2	DB00586	1	-0.852452363	diclofenac	3.6447
+GLI2	DB00564	1	-0.82181055	carbamazepine	2.1131
+GLI2	DB04216	1	-0.772345199	quercetin	3.02
+GLI2	DB01023	1	-0.722350982	felodipine	2.4526
+GLI2	DB01394	1	-0.675039135	colchicine	2.3748
+GLI2	DB01645	1	-0.666216387	genistein	3.2988
+GLI2	DB00675	1	-0.650052824	tamoxifen	1.9882
+GLI2	DB00679	1	-0.535024588	thioridazine	2.5395
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
