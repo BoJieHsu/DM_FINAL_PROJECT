@@ -66,8 +66,41 @@ GLI2	DB01394	1	-0.675039135	colchicine	2.3748
 GLI2	DB01645	1	-0.666216387	genistein	3.2988
 GLI2	DB00675	1	-0.650052824	tamoxifen	1.9882
 GLI2	DB00679	1	-0.535024588	thioridazine	2.5395
-
 --------------------------------------------------------------------------------
+Target	Drug_ID	Score	MMP2	CMAP_Drug	Toxic(LD50,mol/kg)
+MMP2	DB01054	1	-0.937347797	nitrendipine	2.381
+MMP2	DB00860	1	-0.847003477	prednisolone	1.8914
+MMP2	DB01023	1	-0.765615159	felodipine	2.4526
+MMP2	DB00586	1	-0.751161561	diclofenac	3.6447
+MMP2	DB01115	1	-0.742866485	nifedipine	2.5425
+MMP2	DB00564	1	-0.702102508	carbamazepine	2.1131
+MMP2	DB00675	1	-0.623827975	tamoxifen	1.9882
+MMP2	DB01124	1	-0.613715343	tolbutamide	2.0629
+MMP2	DB00321	1	-0.591607499	amitriptyline	2.9697
+MMP2	DB01234	1	-0.556200008	dexamethasone	2.1482
+MMP2	DB01645	1	-0.454844698	genistein	3.2988
+MMP2	DB00091	1	-0.447641564	ciclosporin	2.8788
+MMP2	DB01206	1	-0.390299867	lomustine	3.5549
 --------------------------------------------------------------------------------
+Target	Drug_ID	Score	NFE2L1	CMAP_Drug	Toxic(LD50,mol/kg)
+NFE2L1	DB01051	1	-0.901550802	novobiocin	2.2899
+NFE2L1	DB02709	1	-0.697923971	resveratrol	1.6791
+NFE2L1	DB00672	1	-0.680691359	chlorpropamide	2.1413
+NFE2L1	DB00991	1	-0.658091553	oxaprozin	1.8484
+NFE2L1	DB00738	1	-0.621518529	pentamidine	2.2925
+NFE2L1	DB01124	1	-0.616292821	tolbutamide	2.0629
+NFE2L1	DB00795	1	-0.580184192	sulfasalazine	1.4383
+NFE2L1	DB00661	1	-0.519216481	verapamil	3.4137
+NFE2L1	DB01599	1	-0.513946656	probucol	1.9829
+NFE2L1	DB00244	1	-0.462161087	mesalazine	1.7065
+NFE2L1	DB00605	1	-0.446704534	sulindac	3.0989
+NFE2L1	DB00564	1	-0.431100735	carbamazepine	2.1131
 --------------------------------------------------------------------------------
+Target	Drug_ID	Score	STAT3	CMAP_Drug	Toxic(LD50,mol/kg)
+STAT3	DB00564	1	-0.949747678	carbamazepine	2.1131
+STAT3	DB01023	1	-0.745586329	felodipine	2.4526
+STAT3	DB00860	1	-0.701282765	prednisolone	1.8914
+STAT3	DB01051	1	-0.639377134	novobiocin	2.2899
+STAT3	DB02709	1	-0.496291129	resveratrol	1.6791
+STAT3	DB01115	1	-0.43905433	nifedipine	2.5425
 --------------------------------------------------------------------------------
