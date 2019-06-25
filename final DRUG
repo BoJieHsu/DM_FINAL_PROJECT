@@ -1,0 +1,49 @@
+BRCA1		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Resveratrol	1.6791	Interplay among BRCA1, SIRT1, and Survivin during BRCA1-associated tumorigenesis.
+Alsterpaullone	2.4368	Chemosensitization to cisplatin by inhibitors of the Fanconi anemia/BRCA pathway.
+Irinotecan	2.796	Liposomal Irinotecan Achieves Significant Survival and Tumor Burden Control in a Triple Negative Breast Cancer Model of Spontaneous Metastasis.
+Vinblastine	2.9111	Vinorelbine Plus Platinum in Patients with Metastatic Triple Negative Breast Cancer and Prior Anthracycline and Taxane Treatment.
+Indometacin	4.0722	Anti-Inflammatory Agent Indomethacin Reduces Invasion and Alters Metabolism in a Human Breast Cancer Cell Line
+AKT1		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Danazol	1.3291	Danazol has potential to cause PKC translocation, cell cycle dysregulation, and apoptosis in breast cancer cells
+Norethisterone	1.8788	Norethisterone acetate in the treatment of advanced breast cancer.
+Dacarbazine	1.9602	Chemosensitization to cisplatin by inhibitors of the Fanconi anemia/BRCA pathway
+Probucol	1.9829	Nanoassembly of probucol enables novel therapeutic efficacy in the suppression of lung metastasis of breast cancer.
+Dipyridamole	2.1167	Dipyridamole prevents triple-negative breast-cancer progression.
+ETS1		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Resveratrol	1.6791	Curcumin and Resveratrol as Promising Natural Remedies with Nanomedicine Approach for the Effective Treatment of Triple Negative Breast Cancer
+Prednisolone	1.8914	A phase II trial of abiraterone acetate plus prednisone in patients with triple-negative androgen receptor positive locally advanced or metastatic breast cancer (UCBG 12-1).
+Carbamazepine	2.2899	Inhibitory effect of carbamazepine on proliferation of estrogen-dependent breast cancer cells
+Mercaptopurine	2.3684	A phase II clinical trial of 6-mercaptopurine (6MP) and methotrexate in patients with BRCA defective tumours: a study protocol
+Diclofenac	3.6447	Repurposing Drugs in Oncology (ReDO)—diclofenac as an anti-cancer agent
+FOXC1		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Sulfasalazine	1.4383	Anti-Cancer Effects of Sulfasalazine and Vitamin E Succinate in MDA-MB 231 Triple-Negative Breast Cancer Cells
+Resveratrol	1.6791	Curcumin and Resveratrol as Promising Natural Remedies with Nanomedicine Approach for the Effective Treatment of Triple Negative Breast Cancer
+Prednisolone	1.8914	A phase II trial of abiraterone acetate plus prednisone in patients with triple-negative androgen receptor positive locally advanced or metastatic breast cancer (UCBG 12-1).
+Carbamazepine	2.1131	Inhibitory effect of carbamazepine on proliferation of estrogen-dependent breast cancer cells
+Verapamil	3.4137	Verapamil inhibits tumor progression of chemotherapy-resistant pancreatic cancer side population cells
+STAT3		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Resveratrol	1.6791	Curcumin and Resveratrol as Promising Natural Remedies with Nanomedicine Approach for the Effective Treatment of Triple Negative Breast Cancer
+Prednisolone	1.8914	A phase II trial of abiraterone acetate plus prednisone in patients with triple-negative androgen receptor positive locally advanced or metastatic breast cancer (UCBG 12-1).
+Carbamazepine	2.1131	Inhibitory effect of carbamazepine on proliferation of estrogen-dependent breast cancer cells
+Novobiocin	2.2899	Novobiocin Analogs as Potential Anticancer Agents.
+Felodipine	2.4526	
+MMP2		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Prednisolone	1.8914	A phase II trial of abiraterone acetate plus prednisone in patients with triple-negative androgen receptor positive locally advanced or metastatic breast cancer (UCBG 12-1).
+Carbamazepine	2.1131	Inhibitory effect of carbamazepine on proliferation of estrogen-dependent breast cancer cells
+tamoxifen	1.9882	The role of tamoxifen in the treatment and prevention of breast cancer.
+Dexamethasone	2.1482	Dexamethasone co-medication in cancer patients undergoing chemotherapy causes substantial immunomodulatory effects with implications for chemo-immunotherapy strategies
+lomustine	3.5549	Oral second- and third-line lomustine-etoposide-cyclophosphamide chemotherapy for small cell lung cancer.
+NFE2L1		
+Drug	Toxicity(LD50,mol/kg)	Ref
+Verapamil	3.4137	Verapamil inhibits tumor progression of chemotherapy-resistant pancreatic cancer side population cells
+Resveratrol	1.6791	Interplay among BRCA1, SIRT1, and Survivin during BRCA1-associated tumorigenesis.
+Probucol	1.9829	Nanoassembly of probucol enables novel therapeutic efficacy in the suppression of lung metastasis of breast cancer.
+sulindac	3.0989	Effects of sulindac sulfide on proliferation and apoptosis of human breast cancer cell
+Carbamazepine	2.1131	Inhibitory effect of carbamazepine on proliferation of estrogen-dependent breast cancer cells
